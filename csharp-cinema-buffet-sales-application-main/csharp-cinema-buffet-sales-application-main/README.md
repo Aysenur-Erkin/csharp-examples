@@ -1,1 +1,0 @@
-# csharp-cinema-buffet-sales-application
