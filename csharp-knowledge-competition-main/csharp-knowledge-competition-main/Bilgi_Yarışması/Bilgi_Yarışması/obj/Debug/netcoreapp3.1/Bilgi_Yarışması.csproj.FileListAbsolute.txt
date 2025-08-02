@@ -1,0 +1,32 @@
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.exe
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.deps.json
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.runtimeconfig.json
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.runtimeconfig.dev.json
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.dll
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.pdb
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.csprojAssemblyReference.cache
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması__1.Form1.resources
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması__1.Properties.Resources.resources
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.csproj.GenerateResource.cache
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.AssemblyInfoInputs.cache
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.AssemblyInfo.cs
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.dll
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.pdb
+C:\Users\Ayşe\OneDrive\Masaüstü\udemy_projeler\Bilgi Yarışması\Bilgi Yarışması _1\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.genruntimeconfig.cache
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.exe
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.deps.json
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.runtimeconfig.json
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.runtimeconfig.dev.json
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.dll
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\bin\Debug\netcoreapp3.1\Bilgi_Yarışması.pdb
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.csprojAssemblyReference.cache
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması__1.Form1.resources
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması__1.Properties.Resources.resources
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.csproj.GenerateResource.cache
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.AssemblyInfoInputs.cache
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.AssemblyInfo.cs
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.dll
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.pdb
+C:\Users\Ayşe\OneDrive\Masaüstü\Bilgi_Yarışması\Bilgi_Yarışması\obj\Debug\netcoreapp3.1\Bilgi_Yarışması.genruntimeconfig.cache
