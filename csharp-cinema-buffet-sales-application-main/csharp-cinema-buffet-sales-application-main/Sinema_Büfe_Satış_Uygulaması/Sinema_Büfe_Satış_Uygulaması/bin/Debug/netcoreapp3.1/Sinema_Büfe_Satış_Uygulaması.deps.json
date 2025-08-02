@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sinema_Büfe_Satış_Uygulaması/1.0.0": {
+        "runtime": {
+          "Sinema_Büfe_Satış_Uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sinema_Büfe_Satış_Uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
