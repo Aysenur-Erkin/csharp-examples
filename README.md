@@ -1,10 +1,8 @@
 # C# Examples 📚
 
 A curated collection of **beginner-to-intermediate** C# projects.  
-Each folder is a self-contained solution that you can open and run in Visual Studio 2022 or JetBrains Rider.
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/Aysenur-Erkin/csharp-examples?label=Repo%20Size)](../../)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
